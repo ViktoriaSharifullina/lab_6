@@ -1,0 +1,3 @@
+﻿  Supplier.cpp
+C:\Users\Админ\Desktop\ОП\2 семестр\Lab2.sem2.oop\Lab2.sem2.oop\Supplier.cpp(706,132): warning C4244: аргумент: преобразование "double" в "std::streamsize", возможна потеря данных
+  Lab2.sem2.oop.vcxproj -> C:\Users\Админ\Desktop\ОП\2 семестр\Lab2.sem2.oop\Debug\Lab2.sem2.oop.exe
